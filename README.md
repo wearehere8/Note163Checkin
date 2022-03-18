@@ -1,7 +1,7 @@
 # Note163Checkin
 
 ## 一、Fork 仓库
-
+。
 **点击右上角的`Fork`**
 ![Fork](https://img.guoqianfan.com/note/2020/08/fork.png)
 
